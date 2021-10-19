@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Examen1aEvaluacion</string>
+    <string name="edt_nombre_hamburguesa">Nombre hamburguesa</string>
+    <string name="edt_nombre_complemento">Nombre Complemento</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="img_hamburguesa">TODO</string>
+    <string name="txt_codigo_promo">¿Dispones de codigo Promocional?</string>
+    <string name="btn_aplicar">Button</string>
+    <string name="edt_codigo">Name</string>
+    <string name="edt_cupon">Codigo</string>
+    <string name="btn_aplicar_cupon">Aplicar</string>
+    <string name="txt_hamburguesa">Hamburguesa</string>
+    <string name="txt_complemento">Complemento</string>
+    <string name="txt_cupon">Cupon</string>
+    <string name="txt_iva">IVA</string>
+    <string name="txt_total">Total</string>
+</resources>
